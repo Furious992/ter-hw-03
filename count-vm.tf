@@ -1,9 +1,9 @@
-#считываем данные об образе ОС
+
 data "yandex_compute_image" "ubuntu-2004-lts" {
   family = "ubuntu-2004-lts"
 }
 
-#создаем 2 идентичные ВМ
+
 resource "yandex_compute_instance" "web" {
   name        = "netology-develop-platform-web-${tostring(count.index+1)}"
   platform_id = var.vms_defaultsettings.platform_id
