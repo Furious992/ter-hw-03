@@ -55,6 +55,8 @@ variable "each_vm" {
 2. VM:  
    ![img](https://github.com/Furious992/ter-hw-03/blob/main/4.png)  
 
+Решение находится [тут](https://github.com/Furious992/ter-hw-03/blob/main/disk_vm.tf)
+
 ------
 
 ### Задание 4
