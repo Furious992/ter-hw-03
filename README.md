@@ -101,6 +101,10 @@ storage ansible_host=<внешний ip-адрес> fqdn=<полное доме�
 
 ![img](https://github.com/Furious992/ter-hw-03/blob/main/5.png) 
 
+
+3. Решение находится [тут](https://github.com/Furious992/ter-hw-03/blob/main/ansible_inventory.ini)
+
+   
 **УДАЛИЛ ВСЕ СОЗДАННЫЕ РЕСУРСЫ**
 
 ------
